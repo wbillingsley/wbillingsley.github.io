@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://www.wbillingsley.com/</loc>
+    <lastmod>2015-12-20T22:39:27+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wbillingsley.com/projects/mathstiles/</loc>
+    <lastmod>2015-12-20T22:39:27+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.wbillingsley.com/post/first/</loc>
+    <lastmod>2015-12-20T21:27:19+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.wbillingsley.com/</loc>
+    <lastmod>2015-12-20T21:27:06+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.wbillingsley.com/about/</loc>
+    <lastmod>2015-12-20T21:27:06+11:00</lastmod>
+  </url>
+  
+</urlset>

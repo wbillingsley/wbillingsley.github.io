@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>http://www.wbillingsley.com/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2015 22:39:27 +1100</lastBuildDate>
+    <atom:link href="http://www.wbillingsley.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mathstiles</title>
+      <link>http://www.wbillingsley.com/projects/mathstiles/</link>
+      <pubDate>Sun, 20 Dec 2015 22:39:27 +1100</pubDate>
+      
+      <guid>http://www.wbillingsley.com/projects/mathstiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://www.wbillingsley.com/post/first/</link>
+      <pubDate>Sun, 20 Dec 2015 21:27:19 +1100</pubDate>
+      
+      <guid>http://www.wbillingsley.com/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will Billingsley</title>
+      <link>http://www.wbillingsley.com/</link>
+      <pubDate>Sun, 20 Dec 2015 21:27:06 +1100</pubDate>
+      
+      <guid>http://www.wbillingsley.com/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;m a lecturer in the computational science group at the
+&lt;a href=&#34;http://www.une.edu.au&#34;&gt;University of New England&lt;/a&gt;, where I research and teach
+Human-Computer Interaction and Software Engineering.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s a brief bio explaining how I came to be interested in HCI research from
+a software development background on my &lt;a href=&#34;http://www.wbillingsley.com/about&#34;&gt;About page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m also the course coordinator for our &lt;a href=&#34;https://my.une.edu.au/courses/2016/courses/BCOMP&#34;&gt;undergraduate computer science degree&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;publications:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Publications&lt;/h2&gt;
+
+&lt;p&gt;For a list of my publications, please see any of these:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/William_Billingsley&#34;&gt;My profile on ResearchGate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nicta.academia.edu/WilliamBillingsley&#34;&gt;My profile on Academia.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?user=ZvIsrJsAAAAJ&amp;amp;hl=en&#34;&gt;My profile on Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But note they tend to lag a little. Like most academics, I&amp;rsquo;m not a regular gardener of my homepages.&lt;/p&gt;
+
+&lt;h2 id=&#34;teaching:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Teaching&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Current&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.une.edu.au/courses/2016/units/COSC220&#34;&gt;COSC220 Software Engineering Studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.une.edu.au/courses/2016/units/COSC370&#34;&gt;COSC370 User Experience and Interaction Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.une.edu.au/courses/2016/units/COSC250&#34;&gt;COSC250 Programming Paradigms&lt;/a&gt;, with Matthew Cooper&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.une.edu.au/courses/2016/units/COSC360&#34;&gt;COSC360 Advanced Web Programming&lt;/a&gt;, with Matthew Cooper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Former&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.une.edu.au/courses/2015/units/COMP393&#34;&gt;COMP393 Software Project Management&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.une.edu.au/courses/2015/units/COMP391&#34;&gt;COMP391 Advanced Web Technologies&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;DECO2800 Design Computing Studio 2, UQ&lt;/li&gt;
+&lt;li&gt;CSSE3002 The Software Process, UQ&lt;/li&gt;
+&lt;li&gt;CSSE2003 Software Studio, UQ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Materials for some of these (and some &amp;ldquo;catch-up&amp;rdquo; mini-units) will be published
+publicly in the near future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Will&#39;s brief bio</title>
+      <link>http://www.wbillingsley.com/about/</link>
+      <pubDate>Sun, 20 Dec 2015 21:27:06 +1100</pubDate>
+      
+      <guid>http://www.wbillingsley.com/about/</guid>
+      <description>
+
+&lt;p&gt;I have a habit of getting interested in everything, so one way to explain my
+interests is with a quick bio&amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;before-phd:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Before PhD&lt;/h3&gt;
+
+&lt;p&gt;Many years ago, I graduated in Engineering from &lt;a href=&#34;http://www.uq.edu.au/itee&#34;&gt;UQ&lt;/a&gt;,
+and went on to work on the core development team for what was the SingleView customer
+care system. (The company I worked for has been bought many times and is now part of &lt;a href=&#34;http://www.csgi.com/solutions/customer-interaction-management&#34;&gt;CSGi&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Most of what I was doing was very solid software engineering, in C, Delphi, and
+Java. But I started to become interested in interaction design because thought
+the way enterprise software is customised by client teams is unnecessarily
+cumbersome, and I was interested in using End User Programming techniques to improve this.&lt;/p&gt;
+
+&lt;p&gt;(Later, I would realise that modern software development is an incredibly
+elaborate Computer Supported Cooperative Work environment &amp;ndash; an almost ideal
+playground for a technically-minded HCI researcher.)&lt;/p&gt;
+
+&lt;h3 id=&#34;phd:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;PhD&lt;/h3&gt;
+
+&lt;p&gt;In the 2000s, the chance came up to do a PhD with
+&lt;a href=&#34;http://www.cl.cam.ac.uk/~pr10&#34;&gt;Peter Robinson&lt;/a&gt; and
+&lt;a href=&#34;http://www.cl.cam.ac.uk/~afb21&#34;&gt;Alan Blackwell&lt;/a&gt; in the &lt;a href=&#34;http://www.cl.cam.ac.uk/research/rainbow/&#34;&gt;interaction design
+research group&lt;/a&gt; at the University of Cambridge.&lt;/p&gt;
+
+&lt;p&gt;I worked on the Intelligent Book project &amp;ndash; a joint project with MIT to develop
+intelligent teaching systems, where students could work cooperatively
+with AI, primarily interacting with diagrams, in a socially-constructed
+textbook.&lt;/p&gt;
+
+&lt;p&gt;I had a great deal of fun on this project. A lot of the research was on making
+AI &amp;ldquo;reasonable&amp;rdquo; &amp;ndash; finding ways to translate between the user&amp;rsquo;s mental model and
+the machine&amp;rsquo;s mental model (usually using the diagram as context). But I also
+developed a drag-and-drop language for mathematics, ways of modeling complex
+questions with very simple AI, and a better way to ask short answer questions on
+the web. And on the technical side, this was modern web development (with async
+communication to the server) before it was commonplace.&lt;/p&gt;
+
+&lt;p&gt;I also did rather a lot of student theatre, which probably helped my teaching.&lt;/p&gt;
+
+&lt;h3 id=&#34;caret:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;CARET&lt;/h3&gt;
+
+&lt;p&gt;After I finished my PhD, I worked for the university for a little over a year,
+on small development projects and also finding out what&amp;rsquo;s involved in taking
+new technology from research into production. We didn&amp;rsquo;t entirely succeed &amp;ndash;
+it was technology seeking a customer, and not even in a start-up context as it
+was internal to the university. But it was a formative voyage of discovery, as I
+had the chance to discover how entrepreneurialism is supposed to happen (even
+if I wasn&amp;rsquo;t actually doing a start-up!)&lt;/p&gt;
+
+&lt;h3 id=&#34;nicta:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;NICTA&lt;/h3&gt;
+
+&lt;p&gt;In 2009, I moved to Brisbane to become a research engineer with &lt;a href=&#34;http://www.nicta.com.au/&#34;&gt;NICTA&lt;/a&gt;
+(which has since been merged with part of CSIRO to form
+&lt;a href=&#34;http://www.csiro.au/en/Research/D61&#34;&gt;Data61&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Initially I was working on multi-modal
+conversation analysis and visualisation &amp;ndash; if we took a video, could we throw
+every kind of simple analysis we can think of at it
+(topic-mapping, relevance-mapping, pause patterns and turn-taking from audio,
+movement from video, etc),
+and &amp;ldquo;see&amp;rdquo; what happened in the conversation before we watch the video back?
+This was framed as an educational technology project, looking at how
+to improve communication skills training for doctors, but was mostly creating
+tools for data analysis, processing and visualisation.&lt;/p&gt;
+
+&lt;h3 id=&#34;collaborative-studio-teaching-nicta-uq:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Collaborative studio teaching (NICTA &amp;amp; UQ)&lt;/h3&gt;
+
+&lt;p&gt;In 2011, Jörn Guy Süß and I were asked to teach UQ&amp;rsquo;s software engineering studio
+and project management units, after the unexpected death of David Carrington. We
+were given leeway to make some changes to the software engineering unit, and
+turned it into a &amp;ldquo;supercollaborative&amp;rdquo; studio &amp;ndash; each group of students developed
+a different feature of the same product, so that not only were the students
+collaborating in groups, the groups were collaborating with each other on a
+common project. This proved successful, as it let us make the development process
+in the course more closely match real-world software development, with continuous
+integration, test-driven development, distributed version control, etc. In 2013,
+Jim Steel and I turned this into Design Computing Studio 2, with better critique
+processes and elements of continuous design in the course.&lt;/p&gt;
+
+&lt;p&gt;In 2014, we had 200 students working concurrently on the same project &amp;ndash;
+which we believe is a record. (In 2015, the student numbers went up again,
+but the class was split across three projects.)&lt;/p&gt;
+
+&lt;h3 id=&#34;une:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;UNE&lt;/h3&gt;
+
+&lt;p&gt;In 2015, I moved to the &lt;a href=&#34;http://www.une.edu.au&#34;&gt;University of New England&lt;/a&gt;,
+which was hiring a new small &amp;ldquo;computational science&amp;rdquo; team, but also wanted to
+redesign its computer science degrees.&lt;/p&gt;
+
+&lt;p&gt;For me, this meant a continuing (rather than fixed term) academic position,
+the chance to help design a degree, and the opportunity to design
+a &lt;em&gt;distributed&lt;/em&gt; studio course. Eighty per cent of UNE&amp;rsquo;s students study by distance education,
+but we still want them to have the experience of studio teaching and collaborative development.&lt;/p&gt;
+
+&lt;p&gt;We ran a trial of this in 2015, and it is becomming COSC220 Software Engineering Studio
+from 2016.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
