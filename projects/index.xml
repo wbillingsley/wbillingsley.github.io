@@ -6,8 +6,57 @@
     <description>Recent content in Projects on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Dec 2015 22:39:27 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 20 May 2016 22:39:27 +1100</lastBuildDate>
     <atom:link href="http://www.wbillingsley.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Distributed studio teaching</title>
+      <link>http://www.wbillingsley.com/projects/distributedstudio/</link>
+      <pubDate>Fri, 20 May 2016 22:39:27 +1100</pubDate>
+      
+      <guid>http://www.wbillingsley.com/projects/distributedstudio/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;How do we make a class full of remote students feel like they are working in a studio environment, collaborating on a software design journey together?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ongoing research since 2011&lt;/li&gt;
+&lt;li&gt;OLT grant for 2016 (to look at the student experience doing a critique process over asynchronous video)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Back in 2011, while I was working at NICTA, Jörn Guy Süß and I designed a software studio course for UQ where we put the whole class working on one project. It was a &amp;ldquo;supercollaborative&amp;rdquo; course, as we had teams working on each feature, but because they worked on a common project the teams had to collaborate with each other. In 2012, I coordinated the course and refined it, together with Jim Steel. The following two years, Jim and I co-taught it as DECO2800 with Jim coordinating &amp;ndash; in 2014 we had 200 students on the same project, which we believe is still a record.&lt;/p&gt;
+
+&lt;p&gt;In 2015, I moved to UNE, where the vast majority of our students are remote. I&amp;rsquo;m quite keen on studio teaching &amp;ndash; it makes &amp;ldquo;I see what you did there&amp;rdquo; moments happen, and students can learn from each others&amp;rsquo; experiences not just their own. So, at UNE I created perhaps one of the first &lt;em&gt;distributed&lt;/em&gt; studio courses, and we had students from all over Australia, and even Hong Kong, working on a project together.&lt;/p&gt;
+
+&lt;p&gt;David Waugh put together a little a couple of little videos about it for our YouTube stream&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Note, the screenshots aren&amp;rsquo;t from the student code &amp;ndash; David grabbed some slides from an early lecture where I was encouraging students to think about the wide variety of game styles and mechanics they could be inspired by.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/NnpW73thvAU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EO9NSg_yL5A&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;As the students are never in the same room together, we are very reliant on CSCW systems &amp;ndash; both real-world ones (GitHub, Slack, etc) and custom ones I&amp;rsquo;ve created (Assessory so students can critique each other over video, and soon a project status dashboard). As Australia&amp;rsquo;s only &lt;em&gt;distributed&lt;/em&gt; studio development course, there&amp;rsquo;s rather a lot of research and work to do in it.&lt;/p&gt;
+
+&lt;p&gt;The UNE version actually has slightly more content in it (at least compared to last time I taught the UQ version). That&amp;rsquo;s an interesting effect of having two mostly-online lectures per week versus one two-hour in-person session at UQ &amp;ndash; there is suddenly quite a noticeable demarkation between the content delivery and the studio practice.&lt;/p&gt;
+
+&lt;p&gt;Projects we had the students working on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2011 UQ - &lt;em&gt;RoboCode&lt;/em&gt; (using the open source code as a base) &amp;ndash; we gave a set of 30 different overlapping ways to change the game, and a continuous integration environment so the teams&amp;rsquo; code would have to work together&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2012 UQ - &lt;em&gt;RoboCode&lt;/em&gt; (again) &amp;ndash; this year we threw it over to students to decide how to change the game; one group turned it into robot soccer, and another added Call of Duty killstreaks &amp;hellip; This iteration was mostly about improving the student experience (replacing things that didn&amp;rsquo;t work), making the inter-team collaboration start earlier (at feature design rather than only after coding has begun), and adding a demo day and portfolios to give the students a clear view of how they&amp;rsquo;d be assessed&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2013 UQ - &lt;em&gt;DECO Arcade&lt;/em&gt; &amp;ndash; A Steam-like game arcade. Jim had the very good idea of giving students a smaller starter code-base, so they could own the architectural design as well as the features. (It turns out if you give students a large code base, they knit their code into it rather than making structural changes or refactoring). We also added a critique process, which I built into Assessory (over about four days), partly inspired by &lt;em&gt;Exegesis&lt;/em&gt;, an online &amp;ldquo;write, submit, then critique others&amp;rdquo; exercise Harriet Truscott had built in Cambridge for students of Shakespearian literature.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2014 UQ - &lt;em&gt;Decoworld&lt;/em&gt; &amp;ndash; I wrote the starter for this one, but the to be fair the mission was Jim&amp;rsquo;s idea &amp;ndash; DECO Arcade had been a too fragmented &amp;ndash; different teams doing different games, and sharing a few &amp;ldquo;hub&amp;rdquo; features. So let&amp;rsquo;s make it a single open world game so that the features will need to play with each other more.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2015 UNE - &lt;em&gt;Decoworld&lt;/em&gt; &amp;ndash; as I&amp;rsquo;d written the starter code for Decoworld, I re-used the same starter code at UNE as a way of comparing the UQ on-campus and UNE off-campus dynamics. Would studio work with off-campus students? This was also the first year I added Slack. (And it turned out Jim did at UQ too &amp;ndash; we shared materials, including me recording UQ&amp;rsquo;s exam practice tutorial video)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2016 UNE &amp;ndash; &lt;em&gt;Sense-O-Matic&lt;/em&gt; &amp;ndash; We&amp;rsquo;re quite big on data science at UNE, so this year the students will be building a real-time data processing and visualisation platform (using Akka and JavaFX).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2017 UNE &amp;ndash; &lt;em&gt;Leaders&lt;/em&gt; &amp;ndash; An empire-building game where the AI works for you. Partly inspired by playing too much &lt;em&gt;Civilization&lt;/em&gt;&amp;hellip;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mathstiles</title>

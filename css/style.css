@@ -14,9 +14,7 @@ h2 a {
 footer {
     box-sizing: border-box
 }
-.overlay ul,
-ol,
-ul {
+.overlay ul {
     list-style: none
 }
 #mainmenu,
@@ -24,7 +22,7 @@ ul {
 #site-title,
 .lower label,
 .overlay ul li a,
-strong {
+.overlay strong {
     text-transform: uppercase
 }
 #copyright,
