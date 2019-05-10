@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.wbillingsley.com/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.wbillingsley.com/students/</loc>
+    <lastmod>2019-01-01T21:27:06+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wbillingsley.com/about/</loc>
+    <lastmod>2015-12-20T21:27:06+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wbillingsley.com/courses/</loc>
+    <lastmod>2015-12-20T21:27:06+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wbillingsley.com/projects/</loc>
+    <lastmod>2015-12-20T21:27:06+11:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.wbillingsley.com/</loc>
+    <lastmod>2015-12-20T21:27:06+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wbillingsley.com/categories/</loc>
     <priority>0</priority>
   </url>
   

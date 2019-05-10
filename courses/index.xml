@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Will Billingsley</title>
-    <link>https://www.wbillingsley.com/</link>
-    <description>Recent content on Will Billingsley</description>
+    <title>Courses on Will Billingsley</title>
+    <link>https://www.wbillingsley.com/courses/</link>
+    <description>Recent content in Courses on Will Billingsley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Dec 2015 21:27:06 +1100</lastBuildDate>
     
-	<atom:link href="https://www.wbillingsley.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.wbillingsley.com/courses/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
